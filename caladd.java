@@ -7,7 +7,7 @@ public class caladd{
 
                 do{
                         System.out.println("1.Add 2 numbers\n");
-			System.out.println("2.sub 2 numbers\n")
+			System.out.println("2.sub 2 numbers\n");
                         System.out.println("3.Exit \n\n");
                         System.out.println("Enter Your Choice: ");
                         choice=scan.next().charAt(0);
